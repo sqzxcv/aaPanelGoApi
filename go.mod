@@ -1,4 +1,4 @@
-module aaPanelGoApi
+module github.com/sqzxcv/aaPanelGoApi
 
 go 1.18
 
